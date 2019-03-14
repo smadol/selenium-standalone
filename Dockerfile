@@ -1,4 +1,4 @@
-FROM ubuntu:latest@sha256:6d0e0c26489e33f5a6f0020edface2727db9489744ecc9b4f50c7fa671f23c49
+FROM ubuntu:latest@sha256:017eef0b616011647b269b5c65826e2e2ebddbe5d1f8c1e56b3599fb14fabec8
 
 ENV NODE_VERSION 8.11.2
 
